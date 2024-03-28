@@ -29,7 +29,7 @@ class Circle extends Shape {
 
 // Function to read data from a file 
 List<String> readDataFromFile(String filename) {
-  return ["red,10", "blue,20"];
+  return ["red,5", "blue,15"];
 }
 
 // Function to process data and create shapes
